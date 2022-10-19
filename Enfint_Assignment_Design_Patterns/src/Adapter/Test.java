@@ -17,7 +17,7 @@ public class Test {
         
         //reading using usb
         comp.Read();
-        //reading using 
+        //reading using memory through adapter
         cm.Read();
     }
 }
